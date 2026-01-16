@@ -19,7 +19,7 @@ A production-ready RESTful API developed using **Python** and the **Flask** fram
 
 ## Technologies
 
-* **Backend**: Python , Flask 
+* **Backend**: Python, Flask 
 
 * **Database**: MongoDB 
 
